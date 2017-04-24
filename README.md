@@ -1,7 +1,5 @@
-# learning-typescript
-5 hours Mastering Typescript
 
-<img src="220px-TypeScript_Logo.png"/>
+<img src="cover.png"/>
 
 <h1>Welcome,</h1>
 <p>This repository has been written to introduce you into the typescript programming language and cover entire typescript capabilities.</p>
