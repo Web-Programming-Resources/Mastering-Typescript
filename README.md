@@ -1,5 +1,5 @@
 
-<img src="cover.png"/>
+<img src="cover.PNG"/>
 
 <h1>Welcome,</h1>
 <p>This repository has been written to introduce you into the typescript programming language and cover entire typescript capabilities.</p>
